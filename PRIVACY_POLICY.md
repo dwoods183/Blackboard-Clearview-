@@ -32,4 +32,4 @@ Blackboard Clearview is an independent project and is not affiliated with or end
 ## Contact / beta support
 During the private beta, contact the person who invited you to test Clearview. Add a public support address before a broader store launch.
 
-Policy version: 1.9.7 — Updated August 31, 2026.
+Policy version: 2.0.7 — Updated August 31, 2026.
